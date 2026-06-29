@@ -1,0 +1,6 @@
+{
+  "name": "Mando AI Notes",
+  "description": "A premium AI-powered notes application inspired by Samsung Notes with Glassmorphism and Gemini assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
